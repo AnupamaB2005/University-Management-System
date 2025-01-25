@@ -117,7 +117,7 @@ string show= "SELECT * FROM student";
 	 }
 	 }
  }
- Sleep(5000);
+ Sleep(6000);
 }
 
 //search function
